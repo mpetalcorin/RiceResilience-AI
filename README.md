@@ -1,6 +1,6 @@
 # RiceResilience-AI
 AI-enabled multi-stage proof-of-concept for modeling rice seed-stage and reproductive-stage resilience under combined heat, drought, salinity, and oxidative stress.
-
+<img width="1495" height="983" alt="Screenshot 2026-03-21 at 09 14 01" src="https://github.com/user-attachments/assets/bda1bbd6-a83e-4749-b151-65012b86fc95" />
 ## Overview
 
 This repository contains a computational proof of concept for studying **rice resilience under climate-linked abiotic stress**. The project integrates **seed-stage establishment** and **reproductive-stage performance** into one unified framework and uses simulated, literature-benchmarked datasets to test whether molecular-style and plant-level features can be combined with machine learning to support **climate-smart breeding decisions**.
