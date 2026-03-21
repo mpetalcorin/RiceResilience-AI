@@ -126,7 +126,7 @@ The workflow produces:
 
 ## Interpretation
 
-This project is a simulation-based proof of concept. It is not a field experiment, not a meta-analysis, and not a direct empirical estimate of effect size. Its purpose is to test whether a biologically informed computational framework can recover known stress logic in rice and convert that logic into interpretable, breeder-facing outputs.
+This project is a simulation-based proof of concept. Its purpose is to test whether a biologically informed computational framework can recover known stress logic in rice and convert that logic into interpretable, breeder-facing outputs.
 
 The results should therefore be interpreted as hypothesis-generating and workflow-validating, not as definitive agronomic conclusions.
 
@@ -167,5 +167,3 @@ The notebook is fully reproducible under the specified Python environment, using
 
 **Petalcorin, M.I.R.** (2026). A multi-stage AI-enabled proof of concept for dissecting seed-stage and reproductive-stage resilience in rice under combined heat, drought, salinity, and oxidative stress. https://github.com/mpetalcorin/RiceResilience-AI
 
-## Contact
-For scientific questions, interpretation, or extension of the framework, please contact Mark I.R. Petalcorin, the repository author.
